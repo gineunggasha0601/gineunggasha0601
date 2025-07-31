@@ -19,17 +19,20 @@ This guide helps you deploy a smart contract to the **Helios Testnet** using **H
 
 ---
 
-## 2. 📁 Clone the Project Repository
-
+2. 📁 Clone the Project Repository
 
 ```bash
 git clone https://github.com/example/project.git
 cd project
 
-3. 📦 Install Dependencies
-```markdown
-```bash
+
+📦 Install Dependencies
+
+bash
+Copy
+Edit
 npm install
+
 💡 Ignore deprecated warnings unless they stop the installation.
 
 4. ⚙️ Setup .env File
