@@ -21,13 +21,14 @@ This guide helps you deploy a smart contract to the **Helios Testnet** using **H
 
 ## 2. 📁 Clone the Project Repository
 
+
 ```bash
-git clone https://github.com/azrim/helios-lottery.git
-cd helios-lottery
+git clone https://github.com/example/project.git
+cd project
+
 3. 📦 Install Dependencies
-bash
-Copy
-Edit
+```markdown
+```bash
 npm install
 💡 Ignore deprecated warnings unless they stop the installation.
 
