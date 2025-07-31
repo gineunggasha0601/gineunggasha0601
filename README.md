@@ -1,12 +1,28 @@
-- 👋 Hi, I’m @gineunggasha0601
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ Deploy Helios Smart Contract with Hardhat & Chronos (Windows CMD)
+ # 🚀 Helios Smart Contract Deployment (with Hardhat & Chronos)
 
-<!---
-gineunggasha0601/gineunggasha0601 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This is a complete step-by-step guide for deploying a Helios smart contract to the testnet using Hardhat, tailored for **Windows CMD** users.
+
+---
+
+## 1. 🛠️ Environment Setup
+
+- Install [Node.js v18+](https://nodejs.org/)
+- Install [MetaMask](https://metamask.io/) and create a testnet wallet
+- Get HLS testnet tokens from the **Helios Faucet**
+
+---
+
+## 2. 📦 Clone the Project Repository
+
+```bash
+git clone https://github.com/azrim/helios-lottery.git
+cd helios-lottery
+
+**3. 📥 Install Dependencies**
+
+npm install
+💡 Ignore deprecated warnings unless you encounter a critical error.
+
+4. ⚙️ Create and Configure .env File
+Copy the example environment file (Windows CMD):
