@@ -19,12 +19,11 @@ This guide helps you deploy a smart contract to the **Helios Testnet** using **H
 
 ---
 
+**##2. 📁 Clone the Project Repository**
 ```markdown
-2. 📁 Clone the Project Repository
-
 ```bash
 git clone https://github.com/example/project.git
-cd project
+cd project```
 
 
 
