@@ -25,10 +25,6 @@ bash
 git clone https://github.com/example/project.git
 cd project
 
----
-
-```markdown
-**##3. dependencis**
 
 
 
