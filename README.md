@@ -19,10 +19,8 @@ This is a complete step-by-step guide for deploying a Helios smart contract to t
 git clone https://github.com/azrim/helios-lottery.git
 cd helios-lottery
 
-**3. 📥 Install Dependencies**
+## 3. 📥 **Install Dependencies**
 
+```bash
 npm install
-💡 Ignore deprecated warnings unless you encounter a critical error.
 
-4. ⚙️ Create and Configure .env File
-Copy the example environment file (Windows CMD):
